@@ -1,3 +1,4 @@
 marenv
 gym-results
 .vscode
+__pycache__
